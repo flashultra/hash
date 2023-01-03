@@ -1,6 +1,6 @@
 {
   "name": "hash",
-  "description": "Non-cryptographic hash functions library . Supports the following hash algorithms : Murmur1, Murmur2, MurMur3."
+  "description": "Non-cryptographic hash functions library . Supports the following hash algorithms : Murmur1, Murmur2, MurMur3.",
   "version": "1.0.0",
   "releasenote": "Add Murmur hash functions",
   "url": "https://github.com/flashultra/hash",
