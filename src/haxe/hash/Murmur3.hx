@@ -19,7 +19,7 @@ class Murmur3 {
 	private var lastBytes:Int = 0;
 	private var k1:Int32 = 0;
 	private var len:Int = 0;
-	private var h1:UInt = 0;
+	private var h1:Int32 = 0;
 	private var seed:Int = 0;
 
 	public function new(seed:Int = 0) {

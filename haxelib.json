@@ -1,8 +1,8 @@
 {
   "name": "hash",
   "description": "Non-cryptographic hash functions library . Supports the following hash algorithms : Murmur1, Murmur2, MurMur3.",
-  "version": "1.0.0",
-  "releasenote": "Add Murmur hash functions",
+  "version": "1.0.1",
+  "releasenote": "Fix Murmur3 (php)",
   "url": "https://github.com/flashultra/hash",
   "classPath": "src",
   "license": "MIT",
