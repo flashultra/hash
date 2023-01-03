@@ -1,4 +1,4 @@
-package haxe.crypto;
+package haxe.hash;
 
 import haxe.io.Encoding;
 import haxe.io.Bytes;

@@ -1,9 +1,9 @@
-package unit.crypto;
+package unit.hash;
 
 import unit.Test;
 import haxe.Timer;
 import haxe.io.Bytes;
-import haxe.crypto.Murmur3;
+import haxe.hash.Murmur3;
 
 class Murmur3Test extends Test
 {
