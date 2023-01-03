@@ -2,7 +2,7 @@
 
 Hash is a Haxe non-cryptographic hash library. It provides different hash algorithms
 
-# Installation
+### Installation
 ```bash
 $ haxelib install hash
 ```
