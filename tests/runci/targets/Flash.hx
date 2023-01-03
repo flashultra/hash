@@ -263,9 +263,6 @@ class Flash {
 			runCommand("haxe", ["compile-flash9.hxml", "-D", "fdb", "-D", "dump", "-D", "dump_ignore_var_ids"].concat(args).concat(argsVariant));
 			runFlash("bin/unit9.swf");
 		}
-
-		changeDirectory(miscFlashDir);
-		runCommand("haxe", ["run.hxml"]);
 	}
 
 }
