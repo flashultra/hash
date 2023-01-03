@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.0.0 - January XX, 2023
+### 1.0.0 - January 03, 2023
 - Initial release
 - Add Murmur hash functions
   - Murmur1 (32-bit)
